@@ -5,7 +5,7 @@ depends:
   plugin:
   - command
   - gtk
-version: '1.0'
+version: '1.001'
 author: masayoshi_main
 name: こいつのtwilogを開く
 description: twilogを開くだけ
