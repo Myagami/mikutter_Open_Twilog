@@ -8,7 +8,7 @@ Plugin.create(:open_favstar) do
           visible: true,
           role: :timeline) do |m|
     m.messages.map do |msg|
-      Gtk::openurl("http://favstar.fm/users/#{msg.message.user.idname}/recent")
+      Gtk::openurl("http://twilor.org/#{msg.message.user.idname}")
     end
   end
 end
