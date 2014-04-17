@@ -9,4 +9,4 @@ version: '1.0'
 author: masayoshi_main
 name: こいつのtwilogを開く
 description: twilogを開くだけ
-repository: git@github.com:masayoshimashita/mikutter_open_twilog
+repository: git@github.com:masayoshimashita/mikutter_Open_Twilog.git
